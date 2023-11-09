@@ -1,0 +1,4 @@
+{
+	"editor.wordBasedSuggestions": false,
+	"rust-analyzer.procMacro.attributes.enable": false
+}
